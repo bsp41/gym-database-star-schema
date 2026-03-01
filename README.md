@@ -20,8 +20,7 @@ A denormalized flat file (100 rows, 14 attributes) was decomposed into four norm
 │   ├── gym_members_exercise_tracking.csv   # 100-row subset used in project
 │   └── original_dataset.csv                # Full 973-row source dataset
 ├── diagrams/
-│   ├── conceptual_er_diagram.jpg           # Initial ER diagram with entity identification
-│   ├── conceptual_diagram.png              # Refined conceptual model with PK/FK notation
+│   ├── conceptual_diagram.png              # Conceptual model with PK/FK notation
 │   ├── logical_diagram.png                 # Logical model
 │   └── physical_diagram.png               # Physical model (generated from MySQL)
 ├── sql/
